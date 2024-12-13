@@ -1,0 +1,11 @@
+print(13>7)
+print(18>12)
+print(15>5)
+print(14>8)
+print(28>19)
+
+print(7>13)
+print(17>34)
+print(29>35)
+print(24>34)
+print(15>21)
