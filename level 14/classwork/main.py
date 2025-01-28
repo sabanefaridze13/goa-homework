@@ -19,8 +19,13 @@
 
 # 3 
 
-# my favourite numb is 13
-# my friend 7
-#( 13 >7)
-#true რადგან მოქმედება სწორია
+my_number = int(input("enter your number: "))
 
+
+user_number = int(input("enter your fav number: "))
+
+
+if my_number == user_number:
+    print("even numbers are equal to each other")
+else:
+    print("even numbers are not equal to each other")
