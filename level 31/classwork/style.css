@@ -1,0 +1,22 @@
+body {
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: green;
+}
+
+p {
+    color: black;
+    font-size: 18px;
+}
+
+img {
+    width: 200px;
+    margin: 10px;
+}
