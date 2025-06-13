@@ -1,0 +1,24 @@
+img{
+    height: 100px;
+}
+.photos{
+    border: red solid;
+}
+#photo{
+    border: blue double;
+}
+#p1{
+    height: 20px;
+    color: purple
+}
+#p2{
+    height: 22px;
+    color: green
+}
+.buttons{
+    height: 15px;
+    border: blue solid;
+}
+#b1{
+    height:20px;
+}
