@@ -1,0 +1,7 @@
+.box {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(120,255,195);
+    text-align: center;
+    color: rgb(190,170,130);
+}

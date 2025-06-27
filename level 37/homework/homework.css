@@ -1,0 +1,35 @@
+h1,h2, p , a {
+    text-align: center;
+}
+
+#tiger {
+    background-color: orange;
+    
+    
+}
+#tiger p {
+    border: white solid;
+}
+#tiger h1 {
+    color: white;
+}
+
+#giraffe {
+    background-color: brown;
+    color: white;
+}
+#sealion {
+    background-color: bisque;
+}
+
+#squierl {
+    background-color: coral;
+}
+
+#guinea {
+    background-color: burlywood;
+}
+
+body {
+    background-color: green;
+}
